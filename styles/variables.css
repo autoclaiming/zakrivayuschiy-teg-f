@@ -1,0 +1,17 @@
+:root {
+  --bg_image: url(../images/bus.png);
+  --main_font: "Inter";
+  --accent_font: PressStart2P;
+  --bold-weight: 700;
+  --normal-weight: 400;
+  --main_font-size: 18px;
+  --background-gradient: repeating-linear-gradient(
+      to right,
+      #d3d3d3 0 2px,
+      transparent 2px 4px
+    ),
+    repeating-linear-gradient(to bottom, #d3d3d3 0 2px, transparent 2px 4px),
+    linear-gradient(to bottom, #e7e7e7, #1a1a1a);
+  --heart_contour_color: #000;
+  --heart_main_color: #f00;
+}
