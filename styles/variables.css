@@ -1,8 +1,8 @@
 :root {
   --main_font: "Inter";
   --accent_font: PressStart2P;
-  --bold-weight: 700;
-  --normal-weight: 400;
+  --bold-weight: 650;
+  --normal-weight: 450;
   --main_font-size: 18px;
   --background-gradient: repeating-linear-gradient(
       to right,
@@ -13,4 +13,5 @@
     linear-gradient(to bottom, #e7e7e7, #1a1a1a);
   --heart_contour_color: #000;
   --heart_main_color: #f00;
+  --accent-color-floopy:#fff;
 }
